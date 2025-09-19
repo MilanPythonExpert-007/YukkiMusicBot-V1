@@ -1,4 +1,3 @@
-#
 # Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/TeamYukki >.
 #
 # This file is part of < https://github.com/TeamYukki/YukkiMusicBot > project,
@@ -16,7 +15,7 @@ from pyrogram import filters
 API_ID = 24082016  # Replace with your actual API ID
 API_HASH = "81af1b2969f06110e0901aa41bfb932d"  # Replace with your actual API HASH
 
-BOT_TOKEN = "7595682754:AAGe-y5SqQ-lSelXFvXf-MKx7imUgy8IW7s"  # Replace with your actual bot token
+BOT_TOKEN = "8020798464:AAHx6BU_Qi_h_jOD_Hpb8AssQW3iR2vW0HU"  # Replace with your actual bot token
 
 MONGO_DB_URI = "your_mongodb_uri_here"  # Replace with your MongoDB URI or set to None
 
@@ -25,7 +24,7 @@ SONG_DOWNLOAD_DURATION = 180
 
 LOG_GROUP_ID = -1002732848153  # Replace with your actual log group ID
 
-MUSIC_BOT_NAME = "Union Swipe X MPX"
+MUSIC_BOT_NAME = "ABHAY X MPX"
 
 OWNER_ID = [5524867269, 8287427230]  # Replace with your actual owner ID(s)
 
@@ -37,8 +36,8 @@ UPSTREAM_BRANCH = "master"
 
 GIT_TOKEN = None
 
-SUPPORT_CHANNEL = "https://t.me/+hC2BWrKRa7s0NzNl"  # Replace with your actual channel
-SUPPORT_GROUP = "https://t.me/TempNowbornmp"  # Replace with your actual group
+SUPPORT_CHANNEL = "https://t.me/DarkCheckCommunity"  # Replace with your actual channel
+SUPPORT_GROUP = "https://t.me/@OSINTinfo_XBot"  # Replace with your actual group
 
 AUTO_LEAVING_ASSISTANT = None
 AUTO_LEAVE_ASSISTANT_TIME = 5400
