@@ -15,9 +15,9 @@ from pyrogram import filters
 API_ID = 24082016  # Replace with your actual API ID
 API_HASH = "81af1b2969f06110e0901aa41bfb932d"  # Replace with your actual API HASH
 
-BOT_TOKEN = "8448353745:AAErsCbKGrgo4rttxPgZwwHaAgZjSY5ECjQ"  # Replace with your actual bot token
+BOT_TOKEN = "8398815234:AAEQpBhX35K8zN-vMOE_nBfd4x47Kbcz5nE"  # Replace with your actual bot token
 
-MONGO_DB_URI = "mongodb://localhost:27017/"  # Replace with your MongoDB URI or set to None
+MONGO_DB_URI = "mongodb+srv://chetnapatel7489_db_user:chetnapatel7489_db_user@cluster0.k59kuyg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Replace with your MongoDB URI or set to None
 
 DURATION_LIMIT_MIN = 60
 SONG_DOWNLOAD_DURATION = 180
